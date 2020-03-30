@@ -110,7 +110,7 @@ class Game extends React.Component {
         return (
             <div>
                 <div className="jumbotron">
-                    <h1>Tic-Tac-Toe</h1>
+                    <h1 className="title">Tic-Tac-Toe</h1>
                 </div>
                 <div className="contaner">
                     <div className="game row">
